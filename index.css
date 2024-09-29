@@ -1,0 +1,18 @@
+img{
+    position:relative;
+    background-size:cover;
+    opacity:0.5;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    }
+
+h3{
+    position:absolute;
+    top:5px;
+    font-size:20px;
+    color:hotpink;
+    letter-spacing:5px;
+    text-transform:uppercase;
+    text-shadow:3px 4px 5px rgb(245, 127, 245);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
